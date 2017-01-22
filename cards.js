@@ -11,6 +11,5 @@ function addCard(event) {
 
 // delete the last card added when the user clicks the delete button (remove the last <article> element from the DOM)
 function deleteCard(event) {
-	console.log("Click!");
 	document.getElementById("inputArea").removeChild(document.getElementById("inputArea").lastChild)
 }
