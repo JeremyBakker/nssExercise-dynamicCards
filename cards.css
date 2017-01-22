@@ -1,0 +1,16 @@
+.dynamicCard {
+	display: inline-block;
+	border: 2px solid black;
+	height: 300px;
+	width: 200px;
+	overflow: scroll;
+	margin: 5px;
+}
+
+textarea {
+	margin-left: 5px;
+}
+
+button {
+	margin-left: 5px;
+}
